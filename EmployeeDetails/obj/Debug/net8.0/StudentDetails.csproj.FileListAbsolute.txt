@@ -1,0 +1,141 @@
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\appsettings.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\StudentDetails.exe
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\StudentDetails.deps.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\StudentDetails.runtimeconfig.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\StudentDetails.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\StudentDetails.pdb
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\DnsClient.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\Snappier.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.csproj.AssemblyReference.cache
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.AssemblyInfoInputs.cache
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.AssemblyInfo.cs
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.StudentDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentDetails.props
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentDetails.props
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentDetails.props
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\scopedcss\bundle\StudentDetails.styles.css
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentD.0BE5529A.Up2Date
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\refint\StudentDetails.dll
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.pdb
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\StudentDetails.genruntimeconfig.cache
+C:\Users\91965\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\ref\StudentDetails.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\appsettings.Development.json
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\appsettings.json
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.exe
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.deps.json
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.runtimeconfig.json
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.pdb
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\DnsClient.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\SharpCompress.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\Snappier.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\ZstdSharp.dll
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\MyProject\WebApi\EmployeeDetails\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.csproj.AssemblyReference.cache
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.AssemblyInfoInputs.cache
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.AssemblyInfo.cs
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.csproj.CoreCompileInputs.cache
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.MvcApplicationPartsAssemblyInfo.cs
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets.build.json
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets.development.json
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.StudentDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentDetails.props
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentDetails.props
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentDetails.props
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets.pack.json
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\scopedcss\bundle\StudentDetails.styles.css
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentD.0BE5529A.Up2Date
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.dll
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\refint\StudentDetails.dll
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.pdb
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.genruntimeconfig.cache
+C:\MyProject\WebApi\EmployeeDetails\obj\Debug\net8.0\ref\StudentDetails.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\appsettings.Development.json
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\appsettings.json
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.exe
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.deps.json
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.runtimeconfig.json
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\StudentDetails.pdb
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\DnsClient.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\SharpCompress.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Snappier.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\ZstdSharp.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.csproj.AssemblyReference.cache
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.AssemblyInfoInputs.cache
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.AssemblyInfo.cs
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.csproj.CoreCompileInputs.cache
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.MvcApplicationPartsAssemblyInfo.cs
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets.build.json
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets.development.json
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.StudentDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentDetails.props
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentDetails.props
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentDetails.props
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\staticwebassets.pack.json
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\scopedcss\bundle\StudentDetails.styles.css
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentD.0BE5529A.Up2Date
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.dll
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\refint\StudentDetails.dll
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.pdb
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\StudentDetails.genruntimeconfig.cache
+C:\React Js\WebApi\EmployeeDetails\obj\Debug\net8.0\ref\StudentDetails.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\System.Web.Cors.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\System.Web.Http.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\System.Web.Http.Cors.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\React Js\WebApi\EmployeeDetails\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
